@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: <script>alert('example title')</script>
-  description: <image src =q onerror=prompt(8)>
+  description: <img src=1 href=1 onerror="javascript:alert(1)"></img>
 paths:
   /:
     get:
