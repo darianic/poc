@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example title
-  description: "&lt;img src=x onerror=&quot;alert(document.domain)&quot;&gt;"
+  description: &lt;img src=x onerror=&quot;alert(document.domain)&quot;&gt;
 paths:
   /:
     get:
