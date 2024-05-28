@@ -2,7 +2,8 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example title
-  description: &lt;img src=x onerror=&quot;alert(document.domain)&quot;&gt;
+  description: <a href="\x09javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+
 paths:
   /:
     get:
